@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain and peaceable advice to those called Presbyterians in Scotland by Alexander Skene.</title>
+            <author>Skene, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60329</idno>
+            <idno type="STC">Wing S3936</idno>
+            <idno type="STC">ESTC R10254</idno>
+            <idno type="EEBO-CITATION">13777543</idno>
+            <idno type="OCLC">ocm 13777543</idno>
+            <idno type="VID">101767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101767)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain and peaceable advice to those called Presbyterians in Scotland by Alexander Skene.</title>
+                  <author>Skene, Alexander.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  Controversial literature.</term>
+               <term>Presbyterians --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101767:1"/>
+            <pb facs="tcp:101767:1" rendition="simple:additions"/>
+            <p>Plain and Peaceable ADVICE To thoſe called Presbyterians IN SCOTLAND.</p>
+            <p>By <hi>Alexander Skene.</hi>
+            </p>
+            <q xml:lang="lat">Longè diverſa ſunt carnificina &amp; pietas, nec poteſt aut veri<g ref="char:EOLhyphen"/>tas cum vi, aut juſtitia cum crudelitate conjungi.</q>
+            <q>
+               <p>There is a vaſt difference betwixt Butchery and Godlineſs, neither has Truth any concord with Violence, of Cruel<g ref="char:EOLhyphen"/>ty with Righteouſneſs.</p>
+               <bibl>Lactan. Milit. lib. 5. cap. 20.</bibl>
+            </q>
+            <q>
+               <p>Truth is not propagated by Swords or Spears, nor by Soul<g ref="char:EOLhyphen"/>diers, but by Perſwaſion and Counſel.</p>
+               <bibl>Athan. Epict. ad Vit. Sel. ag. lib. 1.</bibl>
+            </q>
+            <q>
+               <bibl>Rom. 12.18.</bibl>
+               <p>If it be poſſible, as much as lyeth in you, live peaceably with all men, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Cor. 10.4.</bibl>
+               <p>For the weapons of our warfare are not carnal, but mighty through God, to the pulling down of ſtrong holds.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Benjamin Clark,</hi> in <hi>George-yard in Lombard-ſtreet.</hi> 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101767:2"/>
+            <pb facs="tcp:101767:2"/>
+            <head>TO THE READER.</head>
+            <p>THe ſerious ſenſe I have of that neceſſary Duty by which all Chriſtians are obliged, not only to <hi>love one another,</hi> but even their <hi>Enemies,</hi> Mat. <hi>5.44.</hi> and the great Abhorrence they ſhould have againſt that Spirit of <hi>Cain</hi> who ſlew his Brother, hath not only engaged me, and thoſe of my Perſwaſion, to forſake that principle and practice of Fighting, and to prefer the peaceable way of <hi>Chriſt</hi> even under greateſt ſufferings, <hi>Iſa. 53.7.</hi> but alſo moved me to write this enſuing Diſſwaſive to them whoſe principle and practice hath drawn on themſelves much Sufferings, and occaſioned greater Severities to be enacted againſt the Diſſenting Worſhippers of God from the National way, then probably would otherwiſe have been; whereby not only they have met with ſad Afflicti<g ref="char:EOLhyphen"/>ons, but even others (whoſe chiefeſt deſire was only to have liberty to Worſhip the Lord in Spirit and in Truth, according to their Conſciences) have been made to ſuffer (theſe three years and a half by gone) by frequent and long Impriſonments, <hi>&amp;c.</hi> Though we conceive the Narra<g ref="char:EOLhyphen"/>tives of all theſe Penal Statutes againſt Meetings, might ſufficiently have guarded thoſe who never were Seditious in practice nor principle.</p>
+            <p>
+               <pb facs="tcp:101767:3"/>
+But if they to whom this is directed, would once at laſt be induced to that behaviour that is moſt ſuitable to the Goſpel of Peace, and to the Spirit of true<g ref="char:punc">▪</g> Chriſtianity; it is my hope in the Lord, that he would incline the hearts of our Rulers, both Supreme and Subordinate, to make their Moderation ſo far known, as to allow a juſt liberty of Worſhip to all, whoſe differences are no ways inconſiſtent with the Peace and Proſperitys of the Nation.</p>
+            <p>Waiting for this Mercy from the Lord, in his appointed time, I commend this ſmall Endeavour to his Bleſſing.</p>
+            <closer>
+               <dateline>
+                  <date>The 5<hi rend="sup">th</hi> of the 6<hi rend="sup">th</hi> mon. 1679.</date>
+               </dateline> 
+               <signed>A. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101767:3"/>
+            <head>TO THE PRESBYTERIANS IN SCOTLAND.</head>
+            <p>KNowing that ye look on it as a duty to fight by mi<g ref="char:EOLhyphen"/>litary weapons in defence of your principle, yea to promote your Cauſe and your pretended Refor<g ref="char:EOLhyphen"/>mation by the power of the Sword, in which ye are con<g ref="char:EOLhyphen"/>firmed by ſome of your Preachers, who are always labou<g ref="char:EOLhyphen"/>ring to perſwade you to this, as one evidence of your Zeal for God, and not to ſpare to hazard your Lives, Liber<g ref="char:EOLhyphen"/>ties and Eſtates in ſuch a glorious Cauſe, as they call it.</p>
+            <p>In reference to which, I have found freedom, out of that love I bear to the welfare of your Souls, the peace of our native Country, and that duty of obedience and ſubjection we owe to all that are ſet up in lawful Authority over us, as we are men and Chriſtians, (whether active or paſſive, wherein we cannot with a good conſcience give active obedience) to lay before you theſe following Con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p n="1">1. Conſider how ſhort ye are of that promiſe and Pro<g ref="char:EOLhyphen"/>phecy of Goſpel-times, (when Chriſtians ſhall be recovered out of the Apoſtacy, and come to the primitive Simplicity) which is mentioned <hi>Micah</hi> 4.2, 3, 4. and <hi>Iſa.</hi> 2.2, 3, 4. When <hi>many Nations ſhall ſay, Come, and let us go up to the Mountain of the Lord, and to the Houſe of the God of <hi>Jacob,</hi> and he will teach us of his ways, and we will walk in his paths,</hi> &amp;c. <hi>And he will judge among many people, and re<g ref="char:EOLhyphen"/>buke ſtrong Nations afar off, and they ſhall beat their Swords
+<pb n="2" facs="tcp:101767:4"/>into Plow-ſhares, and their Spears into Pruning-hooks: Na<g ref="char:EOLhyphen"/>tion ſhall not lift up Sword againſt. Nation, neither ſhall they learn War any more, but they ſhall ſit every man under his own Vine, and under his own Fig-tree, and none ſhall make them afraid, for the mouth of the Lord hath ſpoken it.</hi>
+            </p>
+            <p>Where, firſt, this is obſervable, that this promiſe is to be accompliſhed when many Nations ſhall come to own the true God, which was not ſo under the <hi>Moſaical</hi> diſpenſation, till the Goſpel of Jeſus Chriſt was preached amongſt the Na<g ref="char:EOLhyphen"/>tions, and the <hi>Gentile</hi> World converted to Chriſtianity.</p>
+            <p>But it may be objected, That Wars were never more amongſt the Nations, then ſince the Nations became by out<g ref="char:EOLhyphen"/>ward profeſſion to own Chriſtianity, and ſo it continues unto this day; To which my ſecond Conſideration ſhall ſerve for Anſwer, thus:</p>
+            <p>Before the defection from the Simplicity of the Goſpel, in the firſt and pureſt times of Chriſtianity, it was not ſo, as is witneſſed by Doctor <hi>Cave</hi>'s Primitive Chriſtianity, ci<g ref="char:EOLhyphen"/>ting Teſtimonies out of <hi>Origens</hi> and <hi>Tertullians</hi> Apology, <hi>pag.</hi> 326. <hi>chap.</hi> 2. <hi>pag.</hi> 55. <hi>chap.</hi> 1. where he brings in <hi>Celſus</hi> objecting to <hi>Origen,</hi> that Chriſtians refuſed to help the Em<g ref="char:EOLhyphen"/>perours in their Wars; <hi>Origen</hi> anſwers, That they did really aſſiſt and help him, and that rather with Divine than humane weapons, according to the command of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>I exhort, that first of all, ſupplication, prayers, interceſ<g ref="char:EOLhyphen"/>ſions,</hi> &amp;c. <hi>be made for all men, for Kings, and for all that are in Authority.</hi> And tells him, the more eminent any man is for Piety and Religion, he will be able to afford greater aſſiſtance to his Prince, then a great many Armed Soul<g ref="char:EOLhyphen"/>diers that ſtand ready to fight for him, and to deſtroy his enemies.</p>
+            <p>But to clear this further, ſee that famous Letter of <hi>Mar<g ref="char:EOLhyphen"/>cus Aurelius Antoninus</hi> the <hi>Roman</hi> Emperour, to the Se<g ref="char:EOLhyphen"/>nate of <hi>Rome,</hi> which is recorded in the Works of <hi>Juſtin Martyr</hi> in Latine; Alſo in <hi>John Fox</hi> his Acts and Monu<g ref="char:EOLhyphen"/>ments,
+<pb n="3" facs="tcp:101767:4"/>commonly called the <hi>Book of Martyrs,</hi> his firſt Tome, <hi>pag.</hi> 46. (who though he reports according to <hi>Eu<g ref="char:EOLhyphen"/>ſebius,</hi> the Chriſtians to have been a Legion of the Em<g ref="char:EOLunhyphen"/>perours Army, yet the Letter it ſelf ſhews the contrary where the Emperour ſays, <hi>I cauſed to be ſent for theſe men who were called Chriſtians, who did their endeavour, but without either Weapons, Munition, Armour, or Trumpet, as men abhorring ſuch preparation and furniture, but only ſatiſ<g ref="char:EOLhyphen"/>fied in truſt of their God, whom they carry about with them in their Conſciences.</hi> And for your ſakes I ſhall ſet down the Letter at length.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Marcus Aurelius Antoninus</hi> Emperour, to the Senate and People of <hi>Rome.</hi>
+                  </head>
+                  <p>I <hi>Give you to underſtand what ſucceſs I have had in my Wars in</hi> Germany, <hi>as alſo what I intend, and with how much difficulty I have victualled my Camp, being compaſſed about with ſeventy and four fierce Dragons, whom my Scouts deſcried to be within nine miles of us, and</hi> Pompeianus <hi>our Lieute<g ref="char:EOLhyphen"/>nant hath viewed, as he ſignified to us by his Letter; where<g ref="char:EOLhyphen"/>fore I thought no leſs, but to be over-run, and all my Bands, of ſo great a multitude, as well my Way-ward, Main-ward, as Roar-ward, with all my Souldiers of</hi> Ephrata, <hi>in whoſe Hoſt there were numbered of fighting men, nine hundred ſeventy and five thouſand. But when I ſaw my ſelf not able to en<g ref="char:EOLhyphen"/>counter with the Enemy, I craved aid of our Country Gods, at whoſe hands I finding no comfort, and being driven of the Ene<g ref="char:EOLhyphen"/>my to an exigent, I cauſed to be ſent for thoſe men whom we call Chriſtians, who being numbred were found a good indiffe<g ref="char:EOLhyphen"/>rent number, with whom I was in further rage, then I had good cauſe, as afterward I had experience by their marve<g ref="char:EOLhyphen"/>lous power, who forthwith did their endeavour, but without either W<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pon, Munition, Armour, or Trumpet,</hi> as men ab<g ref="char:EOLhyphen"/>horring
+<pb n="4" facs="tcp:101767:5"/>ſuch preparation or furniture, but only ſatisfied in the truſt of their God, whom they carry about with them in their Conſciences.</p>
+                  <p>
+                     <hi>It is therefore to be credited, albeit we call them wicked men, that they worſhip God in their hearts; for they falling proſtrate on the ground, prayed not only for me, but for the Hoſt alſo that was with me, beſeeching their God for help in that our extremity of lack of Victuals and freſh Water, for we had been now five days without Water, and now in our enemies Land, even in the midſt of</hi> Germany, <hi>who thus falling upon their faces, made their prayers to a God unknown of me: And there fell amongſt us from Heaven a pleaſant and cold ſho<g ref="char:EOLhyphen"/>wer; But amongſt our Enemies a great ſtorm of Hail mixed with Lightning; ſo that immediately we perceived the invin<g ref="char:EOLhyphen"/>cible aid of the moſt Mighty God to be with us.</hi>
+                  </p>
+                  <p>
+                     <hi>Therefore we give theſe men leave to profeſs Chriſtianity, leſt perhaps by their prayers we be puniſhed with the like, and thereby make my ſelf the Authour of ſuch hurt as ſhall be re<g ref="char:EOLhyphen"/>ceived by the Chriſtian profeſſion; And if any man ſhall ap<g ref="char:EOLhyphen"/>prehend one that is a Chriſtian, only for that cauſe I will that he being apprehended, without puniſhment may have leave to confeſs the ſame, ſo that there be none other cauſe objected a<g ref="char:EOLhyphen"/>gainst him, more then that he is a Chriſtian; but let his ac<g ref="char:EOLhyphen"/>cuſer be burned alive. Neither will I that he confeſſing and being found a Chriſtian, ſhall be enforced to alter the ſame his opinion, by the Governour of any of our Provinces, but leſt to his own choice. And this Decree of mine, I will to be ratified in the Senate-houſe, and command the ſame to be proclaimed and read in the Court of</hi> Trajanus: <hi>And that further from thence it may be ſent unto all our Provinces, by the diligence of</hi> Veratius <hi>Governour of our City</hi> Polione. <hi>And further we give leave to all men to uſe and write out this our Decree, taking the ſame out of our Copy publickly in the common Hall ſet forth.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="5" facs="tcp:101767:5"/>
+According to <hi>Cluverius</hi> his Latine Epitome of the Hi<g ref="char:EOLhyphen"/>ſtory of the World, this Emperour began his Reign in the year 162. and died 180. which was about one hundred and twenty years before Hiſtory reports any thing of a Chri<g ref="char:EOLhyphen"/>ſtian Legion, which may bear this ſad and woful remark, (that though it was for a good cauſe in refuſing to worſhip falſe Gods) that whole Legion was cut off and periſhed by the Sword, after they had been twice <hi>decimated,</hi> at laſt they were all <hi>Maſsacred</hi> without the leaſt reſiſtance made by them, under <hi>Maximinianus,</hi> Collegue in the Empire to <hi>Diocleſian,</hi> who raiſed the tenth perſecution; which makes the words of our Lord good, <hi>Mat.</hi> 26.52. <hi>Put up thy Sword into his place, for all they that take the Sword, ſhall periſh with the Sword.</hi> However this Scripture may be applied here, I am ſure it may be a weighty warning to all private perſons, that are not in Authority, to take <hi>up Arms</hi> in defence of their opinions, let your Preachers plead the contrary as they will.</p>
+            <p>Conſider thirdly, let all people walk in uprightneſs and righteouſneſs towards God and all men, that they may in Faith fully rely upon the Arm of the Almighty, who hath ſaid he will Judge among many people, and rebuke ſtrong Nations afar off: if a perſon or a people knew the true exerciſe of Faith in this caſe, they would ſay with <hi>David,</hi> Pſal. 3.6. <hi>We will not be afraid of ten thouſands of people who have ſet themſelves against us round about.</hi>
+            </p>
+            <p>O but this were a tempting of God, if the ordinary means ſhould not be uſed— <hi>Anſwer.</hi> In no ways, for this is but to beg the queſtion; if weapons and Arms be the true ordinary means in the Goſpel-times, when God hath ſaid, <hi>Swords are to be beaten into Plow-ſhares, and Spears into Pruning-hooks,</hi> &amp;c. See alſo what the Lord hath ſaid, in confirmation of this truth, <hi>Hoſea</hi> 1.7. <hi>But I will have mercy upon the Houſe of.</hi> Judah, <hi>and will ſave them by the Lor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their God, and will not ſave them by Bow, nor by
+<pb n="6" facs="tcp:101767:6"/>Sword, nor by Battel, by Horſes, nor by Horſe-men.</hi> So <hi>Hoſ.</hi> 2.18. When the Lords People have not only forſaken their Idols and Idolatry, ſo as not to have their names any more remembred, as <hi>verſ.</hi> 16, 17. Then <hi>verſ.</hi> 18. <hi>In that day I will make a Covenant for them, with the Beaſts of the Field, and with the Fowls of the Heaven, and with the cree<g ref="char:EOLhyphen"/>ping things of the Earth, and I will break the Bow and the Sword, and the Battel out of the Earth, and will make them lye down ſafely.</hi> The ſureſt ordinary means of defence, is true peace with God, grounded upon faith in him, and a good Conſcience.</p>
+            <p>Conſider that of <hi>Exod.</hi> 34.23, 24. Where the Lord ſaid, <hi>Thrice in the year ſhall all your male children appear be<g ref="char:EOLhyphen"/>fore the Lord God, neither ſhall any man deſire thy Land, when thou ſhalt go up to appear before the Lord thy God thrice in the year.</hi> Now if <hi>Iſrael</hi> of old, that were engaged often even by the Lords allowance, to fight the Lords Battel by Military weapons againſt their enemies, (all which were but typical of the Spiritual Warfare which Chriſtians are to fight) if they at ſuch times were to forbear, and did for<g ref="char:EOLhyphen"/>bear all outward defence by carnal weapons, at the Word of the Lord, ſaying, <hi>No man ſhall deſire your Land;</hi> How much more ſhould reformed Chriſtians truſt in the Lord, and lean to his defence, who hath ſaid, <hi>I will have mercy on the Houſe of</hi> Judah, <hi>and will ſave them by the Lord their God, and will not ſave them by</hi> Bow, <hi>nor by</hi> Sword, <hi>nor by</hi> Battel, <hi>by</hi> Horſes, <hi>nor by</hi> Horſe-men.</p>
+            <p>The <hi>Iſraelites</hi> had many malicious enemies round about them, as the <hi>Edomites, Ammonites, Moabites, Philistims,</hi> that of themſelves were ready to wait all opportunities to take advantage againſt them, eſpecially when all their males were gone up to <hi>Jeruſalem,</hi> and all their Land left de<g ref="char:EOLhyphen"/>ſtitute of men for defence; yet it was never found, that any Nation invaded their Land during the time of their Feaſts, till <hi>Titus Veſpaſian</hi> the <hi>Roman</hi> Emperour came
+<pb n="7" facs="tcp:101767:6"/>with his Army whilſt they were in <hi>Jeruſalem,</hi> after they had cauſed the Lord of glory to be Crucified. But then their defence had forſaken them: So long then as the Lords people keeps his way and abides in his truth, and truſts a<g ref="char:EOLhyphen"/>lone in the living God, they need fear no enemy whatſoever: Such as return to the Primitive ſimplicity of the Goſpel in faith and practice, will find all theſe promiſes fulfilled, though others that are not come to that ſtate think fit to uſe Arms.</p>
+            <p n="4">4. Conſider, if theſe Truths had been believed and recei<g ref="char:EOLhyphen"/>ved in this Iſland, there had much bloud been ſpared that hath been ſpilt theſe 30 or 40 years by gone, and the deſired Reformation carried on, in a more peaceable and proſperous way then it hath been, as may be ſeen, matters ſtanding as they do at this day. It is wonderful that your eyes are ſo blinded, that ye reflect not, nor look back upon your diſ<g ref="char:EOLhyphen"/>appointments and fruitleſs labour, by your Wars and Fight<g ref="char:EOLhyphen"/>ing, in <hi>pretence</hi> to ſet up <hi>Presbyterian</hi> Government, &amp; in pur<g ref="char:EOLhyphen"/>ſuance of Reformation by Arms. I do not queſtion but there have been many of ſeveral ranks, that were engaged ſo in a miſtaken zeal; for truly the way and manner was not ap<g ref="char:EOLhyphen"/>proved by the Lord, compelling all by force and violence to comply with you, though contrary to their Judgment and Light. If you pretend a good intention, that will not juſtifie a bad Action, witneſs <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> his putting forth his hand to the Ark of the Lord, when the Oxen ſhook it, the Lords anger was kindled againſt him, and ſmote him till he died, 2 <hi>Sam.</hi> 6.7.</p>
+            <p n="5">5 It were worth your ſerious Conſideration, <hi>that if theſe Preachers</hi> continue to ſtir you up to riſe in Arms, they have not much of ſelf-intereſt in their eye, they being now ſecluded from their places, and that Power and Authority they and their Brethren had, (during our late ſad troubles and Wars in this Kingdom) taken from them, whether therefore they ſeek not to imbroil the Nations in new Wars, rather then ſtill to be thus deprived?</p>
+            <p>
+               <pb n="8" facs="tcp:101767:7"/>
+But I conceive it were more ſuitable for them to evi<g ref="char:EOLhyphen"/>dence as much care and zeal, in exciting all perſons and peo<g ref="char:EOLhyphen"/>ple whom they could influence, to ſearch and try their ways, and to turn unto the Lord God with their whole hearts, and ſeek more after a perſonal Reformation, and after a new Creation in their inward man, then to delude people by ſtirring up a carnal zeal for outward Reforma<g ref="char:EOLhyphen"/>tion, when there is no true zeal for real conformity to the Spirit of Jeſus in the heart.</p>
+            <p n="6">6. Conſider, if the way of Fighting and Arms was a means to ſpread the Goſpel at firſt among the Nations: Chriſt ſent forth his Diſciples as Lambs and Sheep among Wolves, and they by pains, and labour, and ſufferings, did propagate the Goſpel, and will ye imagine to carry on any true Goſpel-work another way? They ſuffered impri<g ref="char:EOLhyphen"/>ſonments, beatings, ſcourgings, ſtonings, and all manner of evil, and will ye by reſiſting <hi>evil</hi> with force and vio<g ref="char:EOLhyphen"/>lence, apprehend to promote the Kingdom of Chriſt in theſe Lands? The beſt Arms the Primitive Chriſtians uſed, were <hi>preces &amp; lachrymae,</hi> prayers and tears; and ſo long as ye make uſe of <hi>Swords</hi> and <hi>Guns,</hi> can ye upon any juſt ground lay claim to be their <hi>Succeſſors?</hi> Remember that the Lords Houſe after the Captivity (which our <hi>Babyloniſh</hi> Captivi<g ref="char:EOLhyphen"/>ty under <hi>Popery</hi> reſembled) was not built <hi>by might nor by power, but by the Spirit of the Lord,</hi> Zach. 4.6. Even ſo our Reformation from Antichriſtian Idolatry and Super<g ref="char:EOLhyphen"/>ſtition, whether Root or Branch, is not to be by Sword or Spear; but <hi>the Lord is to conſume it by the Spirit of his Mouth, and ſhall deſtroy him by the brightneſs of his coming,</hi> 2 Theſ. 2.8. O that ye knew the vertue and power of the Spirit of life and truth, ye would ſoon perceive the folly and vani<g ref="char:EOLhyphen"/>ty of your carnal weapons, and of the Arm of fleſh! where<g ref="char:EOLhyphen"/>fore let Chriſt who is the head of the true Church, be the <hi>ſole defender</hi> of his Faith, which he hath wrought in all the true members thereof, elſe acknowledge your Faith
+<pb n="9" facs="tcp:101767:7"/>and work of Reformation ye pretend too, to be none of Chriſts, but meerly humane, and therefore muſt be up<g ref="char:EOLhyphen"/>holden by the Arm of man.</p>
+            <p n="7">7. Conſider, this your way is liker the Children of An<g ref="char:EOLhyphen"/>tichriſt, then the Diſciples of Holy Jeſus, <hi>who when he was reviled, reviled not again, when he ſuffered, he threatned not, but committed himſelf to him that judgeth righteouſly,</hi> 1 Pet. 2.23. So his Diſciples behaved themſelves, 1 <hi>Cor.</hi> 4.12, 13. <hi>Being reviled</hi> (ſays <hi>Paul</hi>) <hi>we bleſs; being perſecuted we ſuffer it; being defamed we entreat; we are made as the filth of the World, and are counted as the off-ſcouring of all things unto this day.</hi> Thus we may ſee the frame of that Spi<g ref="char:EOLhyphen"/>rit that was in the Chriſtians of old; They were far from rendring evil for evil, or repelling force with force, <hi>the weapons of their warfare were not carnal, but mighty through God, to the pulling down of ſtrong holds,</hi> 2 Cor. 10.4.</p>
+            <p>Whereas it is the Spirit of Antichriſt to make uſe of car<g ref="char:EOLhyphen"/>nal weapons in defence of falſe worſhip, <hi>it was given to him to make war with the Saints, yea to overcome them,</hi> Rev. 13.7. yet nevertheleſs <hi>verſ.</hi> 19. <hi>He that killeth with the Sword, must be kill'd with the Sword.</hi> This is a retribution threat<g ref="char:EOLhyphen"/>ned and promiſed to come upon Antichriſt, and all that walk in his ſteps: ſee his lording way in his forcible impoſitions, <hi>verſ.</hi> 16, 17. He cauſeth all ranks to bow to him, and receive marks of conformity to him, yea not to have the liberty to buy or ſell, or the common privi<g ref="char:EOLhyphen"/>ledge of Subjects, except they be ſuch.</p>
+            <p>Now if ye be ſo dealt with in any degree at ſuch a time as this, ye ſhould reflect upon your ſelves, how much this was your own way when power was in your hands, and had the Authority of the Civil Magiſtrate upon your ſide; But I wiſh ye and all others, <hi>that imploy'd</hi> your <hi>power to ſtir</hi> up the Magiſtrate to perſecute others for matters purely conſcientious, to conſider how far ye are from any juſt right to lay claim to the Holy Mountain of the Lord, which is his
+<pb n="10" facs="tcp:101767:8"/>Church in Goſpel-times, as is Propheſied <hi>Iſai.</hi> 11.9. <hi>They ſhall not hurt nor deſtroy in all my Holy Mountain.</hi> Con<g ref="char:EOLhyphen"/>ſider how far this excludes force and Arms from being in<g ref="char:EOLhyphen"/>ſtruments to defend the Faith of the Goſpel, or to promote it, as now the moſt part of theſe called Chriſtians uſe to do, theſe weapons and means never having been uſed, till the ſimplicity of Chriſtianity began to be loſt, and the Apo<g ref="char:EOLhyphen"/>ſtacy began to creep in. It was the pride and ambition of the Biſhop of <hi>Rome</hi> and his Clergy, and <hi>Arrians,</hi> and <hi>Ne<g ref="char:EOLhyphen"/>ſtorians,</hi> that would needs have all men to bow to them, and to conform to their impoſitions, that firſt ſtirred up the Kings and Princes of the Earth to perſecute all whoſe Con<g ref="char:EOLhyphen"/>ſciences could not comply with them; And ſhall ye, who think your ſelves a part of the Reformed Churches, tread their ſteps?</p>
+            <p n="8">8. Wherefore conſider that place of the Apoſtle, <hi>James</hi> 4.1. <hi>From whence come wars and fightings amongſt you? Come they not hence, even from your lusts that war in your mem<g ref="char:EOLhyphen"/>bers?</hi> Is it not evident that all the Wars that have been in the World, have proceeded from no other ground, but either from Pride, Covetouſneſs, Ambition, or Revenge? And if ye ſhall pretend that your fighting is for the cauſe of God, the Apoſtle ſays in plain terms it is not ſo, but from your luſts, even Pride, and Ambition, to have the Preheminence in the Earth, and Revenge againſt them that are your oppoſers; and theſe that pretend to be the Diſci<g ref="char:EOLhyphen"/>ples of Jeſus Chriſt, or people of God, ſhould be aſhamed to be acted by ſuch principles.</p>
+            <p n="9">9. Conſider whether it be not the ſence of this fighting diſ<g ref="char:EOLhyphen"/>poſition in you, that has occaſioned the ſeverity of ſuch Acts of Parliament againſt your Meetings for worſhip, whereby not only ye, but thoſe who are Innocent, and altogether ab<g ref="char:EOLhyphen"/>horrent from ſuch principles of fighting, are made to be ſuf<g ref="char:EOLhyphen"/>ferers, by frequent and long Impriſonments, and to undergo Fines and poindings: whereas if ye had been as peaceably
+<pb n="11" facs="tcp:101767:8"/>diſpoſed, as others are under theſe ſufferings, it might have pleaſed the Lord to have moved the hearts of our Supe<g ref="char:EOLhyphen"/>riours to have reſented from theſe ſeverities; And though ye had remained under ſad ſufferings when Innocent, ye ſhould have had a ſhare of that peace and comfort with o<g ref="char:EOLhyphen"/>thers, that it was purely for the Teſtimony of a good Con<g ref="char:EOLhyphen"/>ſcience, that wiſheth no Evil to any man.</p>
+            <p>Wherefore as ye would ſhew your ſelves to be a people anſwering the Propheſies and Promiſes of Goſpel times, <hi>Micah</hi> 4.2, 3, 4. <hi>Iſa.</hi> 2.2, 3, 4. <hi>Iſa.</hi> 11.9. and 65.25. As ye would approve your ſelves Chriſtians according to the In<g ref="char:EOLhyphen"/>nocency thereof in primitive times, and to be their true and real Succeſſors; As ye would evidence your ſelves to be a righteous people, that can truſt and rely upon the Lord God alone, for the preſervation of the whole Intereſt of the Kingdom of Chriſt, and of your own perſonal in<g ref="char:EOLhyphen"/>tereſts in time and Eternity: As ye would not wiſh theſe Nations to be again involved in blood and confuſion: As ye bear a love to the peace of your native Country; as ye would be free from that imputation of building up <hi>Sion</hi> with blood, (which was never juſtly imputed to the true Diſciples of Chriſt, nor primitive Chriſtians, though under greateſt ſufferings, and though for their power, able ſuffi<g ref="char:EOLhyphen"/>ciently to defend themſelves;) As ye would wiſh not to manifeſt your ſelves to be the brats of the Antichriſtian Whore, who is ſtill drunk with blood, yea with the blood of the Saints, by her not ceaſing to ſtir up the powers of the Earth, to perſecute all who will not come under her mark and name: And as ye would not wiſh to be acted by a ſpirit of luſt, pride and revenge, lay aſide your Arms and fighting principles, and commit God's work to his own Government, and follow peace with all men, and holineſs, <hi>without which none ſhall ſee the Lord;</hi> and commit your cauſe unto God, and <hi>let them that ſuffer according to the will of God, commit the keeping of their Souls to Him in
+<pb n="12" facs="tcp:101767:9" rendition="simple:additions"/>well-doing, as unto a faithful Creator,</hi> 1 Pet. 4.19. And in this only will be your ſtrength and peace.</p>
+            <p>Remember <hi>David</hi> was not permitted to build a Houſe unto the Lord, becauſe he had ſhed much blood upon the Earth; that work was reſerved for <hi>Solomon,</hi> who was a man of peace, 2 <hi>Sam.</hi> 22.8, 9. Wherefore do not dream, neither be perſwaded by men, that ever the Lord will honour <hi>Men of War and Blood,</hi> to pr<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Goſpel of peace.</p>
+            <p>Take this from one, who with many of his <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath been a ſufferer for his Conſcience theſe divers y<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> bygone, with whom theſe bleſſed Promiſes and Propheſies above<g ref="char:EOLhyphen"/>mentioned, are begun to be accompliſhed, both in our prin<g ref="char:EOLhyphen"/>ciple and practice; Though we are a people againſt whom ye have much cauſleſs prejudice and malice, through the many groſs miſrepreſentations of our oppoſers; yet I am, and hope ever to remain,</p>
+            <closer>
+               <signed>A real well-wiſher of your Souls, and of all Men, <hi>AL. SKENE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
